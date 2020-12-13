@@ -1,0 +1,136 @@
+#title{
+
+  width: 100%;
+  height: auto;
+  background-image: url("../image/title elements/banner.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: unset;
+}
+
+.Reypng{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+
+
+#nav{
+  width: 100%;
+  height: 60px;
+  background-color: grey;
+
+
+}
+
+#synopsis{
+  width: 100%;
+  height: auto;
+  background-image: url("../image/background/black n red bckground.jpg");
+  background repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  margin:1px;
+
+
+}
+
+#synopsis h1{
+text-align: left;
+font-family: "Arial Black", Gadget, sans-serif;
+}
+
+#synopsis p{
+font-family: "Arial Black", Gadget, sans-serif;
+text-decoration: none;
+margin: 5px;
+}
+
+
+#Trailer{
+width: 100%;
+height: auto;
+}
+
+
+.PosterImage{
+width: 100%;
+height: auto;
+}
+
+
+.Castpic{
+float:right;
+clear: right;
+}
+
+.CastAbout{
+  width: 100%;
+  height: auto;
+  background-color: black;
+
+}
+.CastAbout h1{
+  font-family: "Arial Black", Gadget, sans-serif;
+  text-align: center;
+  color: white;
+
+}
+.CastAbout p{
+color: white;
+margin: 5px;
+font-family: "Arial Black", Gadget, sans-serif;
+}
+
+
+.Interviews audio{
+width: 100%;
+height: 50px;
+}
+
+#footer{
+font-size: 15px;
+text-align: center;
+background-color: lightgrey;
+width: 100%;
+text decoration: none;
+
+}
+
+body{
+
+background-color: grey;
+
+}
+
+
+nav{
+float: left;
+}
+
+nav ul{
+margin: 0;
+list-style: none;
+text-align: center;
+padding-inline-start: 0;
+}
+
+nav li{
+display: inline-block;
+padding: 25px;
+font-family: "Arial Black", Gadget, sans-serif;
+}
+
+nav a{
+color: white;
+text-decoration: none;
+text-transform: uppercase;
+font-size: 25px;
+}
+
+nav a:hover{
+color: grey;
+background-color: black;
+}
